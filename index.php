@@ -185,7 +185,7 @@
         ga('gobelins.set', 'dimension2', 'etudiant-design-interactif-web');
         ga('gobelins.set', 'dimension3', 'DMII');
         ga('gobelins.set', 'dimension5', 'WebGL Asterios');
-        ga('gobelins.set', 'dimension5', 'Arpegia');
+        ga('gobelins.set', 'dimension6', 'Arpegia');
         ga('gobelins.set', 'dimension7', '2019');
         ga('gobelins.set', 'dimension8', '2017-12-08');
         ga('gobelins.send', 'pageview');
